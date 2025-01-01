@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! I'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!--
-**yogaxdd/yogaxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😎
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer and gamer who loves building cool projects and exploring immersive worlds in games like Genshin Impact. 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Coding in **VB.NET**, **Python**, and exploring new tech
+- 🎨 Building modern and sleek UIs
+
+## 🔥 Skills & Tools
+
+- **Languages:** VB.NET, Python, HTML/CSS, JS, C#
+- **Game Development:** Unity
+- **Tools:** Git, Visual Studio, Figma
+
+## 🌟 Featured Projects
+
+### 🎮 [Custom Game Launcher](https://github.com/yogaxdd/gamelauncher)
+A sleek, feature-rich game launcher with customizable options. Perfect for personal use or gaming communities. 
+
+## 🎯 Goals for 2025
+
+- Learn **C#** and get deeper into Unity for game dev 💡
+
+## 🌐 Let's Connect
+
+- 🐦 [Twitter](https://x.com/yogakokxd)
+- 🎥 [TikTok](https://tiktok.com/yogakokxd)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogaxdd&show_icons=true&theme=radical)
+
+Thanks for stopping by! 💜 Keep coding and gaming! 🚀
