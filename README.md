@@ -10,7 +10,7 @@ I'm a passionate developer and gamer who loves building cool projects and explor
 
 ## 🔥 Skills & Tools
 
-- **Languages:** VB.NET, Python, HTML/CSS, JS, C#
+- **Languages:** NodeJS, Python, HTML/CSS, JS, C#
 - **Game Development:** Unity
 - **Tools:** Git, Visual Studio, Figma
 
