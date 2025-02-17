@@ -12,12 +12,15 @@ I'm a passionate developer and gamer who loves building cool projects and explor
 
 - **Languages:** NodeJS, Python, HTML/CSS, JS, C#
 - **Game Development:** Unity
-- **Tools:** Git, Visual Studio, Figma
+- **Tools:** Git, Visual Studio
 
 ## 🌟 Featured Projects
 
 ### 🎮 [Custom Game Launcher](https://github.com/yogaxdd/gamelauncher)
 A sleek, feature-rich game launcher with customizable options. Perfect for personal use or gaming communities. 
+
+### 🔥 [Valentine Website](https://github.com/yogaxddValentine-Website)
+### 🪐 [Sahabat Tajwid](https://github.com/yogaxdd/Sahabat-Tajwid)
 
 ## 🎯 Goals for 2025
 
