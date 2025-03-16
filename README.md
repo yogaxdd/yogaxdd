@@ -1,11 +1,11 @@
 # Hi there! I'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub profile! 😎
+Welcome to my GitHub profile🚀
 
 ## 🚀 About Me
 I'm a passionate developer and gamer who loves building cool projects and exploring immersive worlds in games like Genshin Impact. 🎮
 
-- 💻 Coding in **VB.NET**, **Python**, and exploring new tech
+- 💻 Coding in **HTML/CSS/JS**, **Python**, and exploring new tech
 - 🎨 Building modern and sleek UIs
 
 ## 🔥 Skills & Tools
@@ -26,7 +26,7 @@ I'm a passionate developer and gamer who loves building cool projects and explor
 
 ## 🌐 Let's Connect
 
-- 🐦 [Twitter](https://x.com/yogakokxd)
+- 🐦 [X](https://x.com/yogakokxd)
 - 🎥 [TikTok](https://tiktok.com/yogakokxd)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogaxdd&show_icons=true&theme=radical)
