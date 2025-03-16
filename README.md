@@ -19,6 +19,7 @@ I'm a passionate developer and gamer who loves building cool projects and explor
 ### 🎮 [Custom Game Launcher](https://github.com/yogaxdd/gamelauncher)
 ### 🔥 [Valentine Website](https://github.com/yogaxddValentine-Website)
 ### 🪐 [Sahabat Tajwid](https://github.com/yogaxdd/Sahabat-Tajwid)
+### 🤭 [ExamBrowser Mod For Bimasoft](https://github.com/yogaxdd/CBT-ExamMod)
 
 ## 🎯 Goals for 2025
 
