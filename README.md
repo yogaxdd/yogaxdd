@@ -30,7 +30,7 @@ I'm a passionate developer and gamer who loves building cool projects and explor
 - 🐦 [X](https://x.com/yogakokxd)
 - 🎥 [TikTok](https://tiktok.com/yogakokxd)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogaxdd&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogaxdd&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogaxdd&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 Thanks for stopping by! 💜 Keep coding and gaming! 🚀
